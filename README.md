@@ -22,7 +22,7 @@ Node.js and npm (for running the development server)
 
 **Installation**
 Clone the repository:
-git clone https://github.com/yourusername/solar-system-babylonjs.git
+git clone https://github.com/LagnadLinus/3D-Solar-System-
 cd solar-system-babylonjs
 
 **Install dependencies:** If you haven't installed the required dependencies, use the following command:
